@@ -19,8 +19,9 @@ This project is a reproduction of the algorithm and evaluation methodology from 
 
 ## 📂 Repository Structure
 ```
-├── notebooks/             # Jupyter notebooks for EDA and divergence calculations
-└── README.md              # Project overview and usage instructions
+├── DB Project Report (2).pdf        # Project Report in detailed
+├── DB_project.ipynb                 # Jupyter notebooks for EDA and divergence calculations
+└── README.md                        # Project overview and usage instructions
 ```
 
 
