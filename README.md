@@ -1,4 +1,4 @@
-### 📊 SEEDB-Based Visualization Recommendation System
+# 📊 SEEDB-Based Visualization Recommendation System
 
 This project is a reproduction of the algorithm and evaluation methodology from the paper *“SEEDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics.”* It focuses on optimizing aggregate queries using Shared-based and Pruning-based techniques to recommend insightful visualizations from the UCI Census dataset.
 
@@ -19,10 +19,7 @@ This project is a reproduction of the algorithm and evaluation methodology from 
 
 ## 📂 Repository Structure
 ```
-├── data/                  # Preprocessed dataset and database
 ├── notebooks/             # Jupyter notebooks for EDA and divergence calculations
-├── src/                   # Python scripts for SQL query generation and KL-Divergence
-├── visualizations/        # Output plots and graphs
 └── README.md              # Project overview and usage instructions
 ```
 
@@ -33,8 +30,5 @@ This project is a reproduction of the algorithm and evaluation methodology from 
 - Perform sensitivity analysis for robustness
 
 ## 🔗 Code
-[GitHub Repository](https://github.com/vpanigrahy/645-Project.git)
+[GitHub Repository]((https://github.com/Noshitha/SEEDDB_Visual_Recommendation_System.git))
 
----
-
-Let me know if you want me to convert this into markdown for direct use!
