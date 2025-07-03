@@ -7,6 +7,10 @@ This project is a reproduction of the algorithm and evaluation methodology from 
 - **Dataset:** UCI Census dataset (32,561 records, 15 features).
 - **Tech Stack:** Python, SQLite, Pandas, Matplotlib, NumPy
 
+## Project Workflow
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/a814c102-f52f-466b-9a4b-325150a0fdf1" />
+
+
 ## Key Features
 - **Data Preprocessing:** Handled missing values using mode imputation; mapped marital status to 'Married' and 'Unmarried'.
 - **Shared-based Optimization:** SQL query rewriting to compute aggregate functions efficiently.
